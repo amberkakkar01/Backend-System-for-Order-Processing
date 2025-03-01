@@ -60,7 +60,7 @@ curl -X GET http://localhost:8080/api/orders/metrics
 {
     "avgProcessingTimeMs": 1217.0,
     "pendingCount": 0,
-    "processingCount": 0,
+    "processingCount": 2,
     "totalProcessed": 3,
     "completedCount": 3
 }
